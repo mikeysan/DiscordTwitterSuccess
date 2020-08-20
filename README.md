@@ -18,6 +18,7 @@ That is an issue with the Python twitter api wrapper not liking how it was writt
 # Direct Support
 For more support, join me in my Discord server:
 - [Hero's Bot Hub](https://discord.gg/jjkvPb9)
+- [Original Link no longer active. Use this one](https://discord.gg/kzAtEH6)
 
-Or message me on Discord at:
+Or message me (original author) on Discord at:
 - Heroicos_HM#0310
